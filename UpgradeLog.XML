@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Quick Location Finder">
+</Property><Property Name="Solution File" Value="E:\Academics\Sem5\Intelligence Systems\Quick Location Finder\Quick Location Finder.sln">
+</Property><Property Name="User Options File" Value="E:\Academics\Sem5\Intelligence Systems\Quick Location Finder\Quick Location Finder.suo">
+</Property><Property Name="Date" Value="Saturday, December 21, 2013">
+</Property><Property Name="Time" Value="10:40 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Quick Location Finder.sln" Description="File successfully backed up as E:\Academics\Sem5\Intelligence Systems\Quick Location Finder\Backup\Quick Location Finder.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Quick Location Finder.suo" Description="File successfully backed up as E:\Academics\Sem5\Intelligence Systems\Quick Location Finder\Backup\Quick Location Finder.suo">
+</Event><Event ErrorLevel="0" Project="Quick Location Finder" Source="Quick Location Finder\Quick Location Finder.csproj" Description="Project file successfully backed up as E:\Academics\Sem5\Intelligence Systems\Quick Location Finder\Backup\Quick Location Finder\Quick Location Finder.csproj">
+</Event><Event ErrorLevel="0" Project="Quick Location Finder" Source="Quick Location Finder\Quick Location Finder.csproj.user" Description="Project user file successfully backed up as E:\Academics\Sem5\Intelligence Systems\Quick Location Finder\Backup\Quick Location Finder\Quick Location Finder.csproj.user">
+</Event><Event ErrorLevel="0" Project="Quick Location Finder" Source="Quick Location Finder\Form1.cs" Description="File successfully backed up as E:\Academics\Sem5\Intelligence Systems\Quick Location Finder\Backup\Quick Location Finder\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Quick Location Finder" Source="Quick Location Finder\Form1.Designer.cs" Description="File successfully backed up as E:\Academics\Sem5\Intelligence Systems\Quick Location Finder\Backup\Quick Location Finder\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Quick Location Finder" Source="Quick Location Finder\Program.cs" Description="File successfully backed up as E:\Academics\Sem5\Intelligence Systems\Quick Location Finder\Backup\Quick Location Finder\Program.cs">
+</Event><Event ErrorLevel="0" Project="Quick Location Finder" Source="Quick Location Finder\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\Academics\Sem5\Intelligence Systems\Quick Location Finder\Backup\Quick Location Finder\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Quick Location Finder" Source="Quick Location Finder\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\Academics\Sem5\Intelligence Systems\Quick Location Finder\Backup\Quick Location Finder\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Quick Location Finder" Source="Quick Location Finder\Properties\Settings.Designer.cs" Description="File successfully backed up as E:\Academics\Sem5\Intelligence Systems\Quick Location Finder\Backup\Quick Location Finder\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Quick Location Finder" Source="Quick Location Finder\Properties\Settings.settings" Description="File successfully backed up as E:\Academics\Sem5\Intelligence Systems\Quick Location Finder\Backup\Quick Location Finder\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Quick Location Finder" Source="Quick Location Finder\Resources\Glass_plasma_globe.jpg" Description="File successfully backed up as E:\Academics\Sem5\Intelligence Systems\Quick Location Finder\Backup\Quick Location Finder\Resources\Glass_plasma_globe.jpg">
+</Event><Event ErrorLevel="0" Project="Quick Location Finder" Source="Quick Location Finder\Form1.resx" Description="File successfully backed up as E:\Academics\Sem5\Intelligence Systems\Quick Location Finder\Backup\Quick Location Finder\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Quick Location Finder" Source="Quick Location Finder\Properties\Resources.resx" Description="File successfully backed up as E:\Academics\Sem5\Intelligence Systems\Quick Location Finder\Backup\Quick Location Finder\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Quick Location Finder" Source="Quick Location Finder\Quick Location Finder.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Quick Location Finder" Source="Quick Location Finder\Quick Location Finder.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Quick Location Finder.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Quick Location Finder.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Quick Location Finder" Source="Quick Location Finder\Quick Location Finder.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
